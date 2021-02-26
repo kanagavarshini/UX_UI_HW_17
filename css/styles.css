@@ -67,3 +67,15 @@ ul{
 a{
   color:white;
 }
+.content {
+  padding: 50px;
+}
+.sectionHeading {
+  text-align: center;
+}
+.skills  {
+  padding: 0px 30px 30px 30px;
+}
+.cardContainer {
+  text-align: center;
+}
